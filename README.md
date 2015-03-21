@@ -33,9 +33,9 @@ hubot>> 現在の時刻は15時48分です。[地域版: tokyo]
 
 user1>> 美人なう
 hubot>> 現在の時刻は15時49分です。[全国版]
-        http://www.bijint.com/assets/pict/jp/pc/1546.jpg
+        http://www.bijint.com/assets/pict/jp/pc/1549.jpg
 
 user1>> 美人なう、東京
 hubot>> 現在の時刻は15時51分です。[地域版: tokyo]
-        http://www.bijint.com/assets/pict/tokyo/pc/1548.jpg
+        http://www.bijint.com/assets/pict/tokyo/pc/1551.jpg
 ```
