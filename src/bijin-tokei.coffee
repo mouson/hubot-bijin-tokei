@@ -9,9 +9,9 @@
 #
 # Commands:
 #   hubot bijin now - Hubot responds bijin-tokei URL of 'all japan'
-#   美人なう - 'bijin now'と同じ。
+#   美人なう - 'hubot bijin now'と同じ。
 #   hubot bijin now [local] - Hubot responds bijin-tokei URL of 'local'
-#   美人なう、[local] - 'bijin now [local]'と同じ。
+#   美人なう、[local] - 'hubot bijin now [local]'と同じ。
 #
 # Notes:
 #   システムのタイムゾーンに関わらず、日本時間の時刻を返す。
